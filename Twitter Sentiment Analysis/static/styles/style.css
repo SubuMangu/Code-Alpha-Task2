@@ -1,0 +1,42 @@
+body {
+    background-color: rgb(3, 65, 65);
+    }
+.container-lg {
+    width: 80%;
+    height: 550px;
+    margin-top: 120px;
+    color: rgb(19, 19, 19);
+    background-color: rgb(247, 247, 247);
+    border-radius: 20px;
+    }
+.container-lg h1{
+    text-align: center;
+}
+.heading {
+    text-align: center;
+    padding-top: 50px;
+    margin-top: 50px;
+    font-weight: bold;
+}
+.container-lg inp {
+    display: flex;
+    height: 80px;
+    width: 600px;
+    margin-left: 135px;
+    margin-top: 300px;
+    border-radius: 10px;
+    }
+.container-lg btn {
+    margin-top: 300px;
+    height: 50px;
+    width: 150px;
+}
+.form {
+    margin-top: 150px;
+    text-align: center;
+}
+.output{
+    text-align: center;
+    margin-top: 50px;
+    font-size: 50px;
+}
